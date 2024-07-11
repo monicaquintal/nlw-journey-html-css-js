@@ -10,7 +10,8 @@ API desenvolvida no NLW Journey da Rocketseat - trilha HTML/CSS/JS.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-design">Design</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-repositorio">Repositório</a>
+  <a href="#-repositorio">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-extra">Extra</a>
 </p>
 
 <br>
@@ -25,10 +26,10 @@ Esse projeto foi desenvolvido utilizando as tecnologias:
 ## 💻 Projeto
 
 <p align="center">
-  <img alt="Projeto NLW Journey - Rocketseat" src="./assets/preview.png" width="500px" />
-</p>
+  <img alt="Projeto NLW Journey - Rocketseat" src="./assets/preview.png" width="500px" /><br>
 
 Nesse projeto desenvolvemos uma versão simplificada de um sistema de roteiro de viagem!
+</p>
 
 ## 📚 Design
 
@@ -47,3 +48,7 @@ Nesse projeto desenvolvemos uma versão simplificada de um sistema de roteiro de
 - Aula 03:
   - [Commit no GitHub](https://github.com/rocketseat-education/nlw-journey-html-css-js/tree/c7b9e22548684e30d8323a2cc51c782775fa5cac).
   - [Código do FrontEditor](https://fronteditor.dev/gists/f7e816e4eace66458fec2356a33d9bad/view).
+
+## 💭 Extra
+
+- [Day.js](https://day.js.org/).
